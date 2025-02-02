@@ -34,6 +34,16 @@ pip install -r requirements.txt
    git clone https://github.com/KartikKar19/lazyvideocontroller.git
    cd lazyvideocontroller
 
+2. Install dependencies:
+Install the required Python libraries using:
+
+pip install -r requirements.txt
+Alternatively, you can install them individually:
+pip install opencv-python mediapipe pyautogui
+
+3.Run the script:
+Start the program using:
+python lazy.py
 
 ### Fixing Markdown Rendering Issues
 - Ensure you are using `README.md`, not `README.txt` or `README` without an extension.
