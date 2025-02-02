@@ -27,3 +27,10 @@ To install all dependencies at once:
 ```bash
 pip install -r requirements.txt
 
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/KartikKar19/lazyvideocontroller.git
+   cd lazyvideocontroller
+
