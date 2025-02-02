@@ -1,4 +1,29 @@
 # lazyvideocontroller
-lazy video controller which uses my webcam feed to detect hand gestures in real time and based on the number of fingers raised stimulates specific keyboard keys using python libraries. 
+lazy video controller which uses my webcam feed to detect hand gestures in real time and based on the number of fingers raised stimulates specific keyboard keys using python libraries.
+**lazyvideocontroller** is a real-time hand gesture recognition system that uses your webcam to detect raised fingers and simulate corresponding keyboard actions using Python libraries. This allows gesture-based control for various applications such as video navigation, gaming, and automation.
 
-lazyvideocontroller is a hand gesture recognition system that uses your webcam feed to detect hand gestures in real-time. Based on the number of fingers raised, the system simulates specific keyboard actions, like arrow keys or the spacebar, using Python libraries. This project utilizes machine learning and computer vision to make gesture-based interaction possible with minimal setup.
+---
+
+## Features
+
+- 🎥 **Real-Time Gesture Detection** – Uses computer vision to track hand movements.
+- 🎮 **Keyboard Simulation** – Maps specific gestures to keyboard keys.
+- 🔧 **Minimal Setup** – Requires only a webcam and a few Python libraries.
+
+---
+
+## Requirements
+
+Before running the project, ensure you have the following installed:
+
+- **Python 3.x** – [Download Python](https://www.python.org/downloads/)
+- **Required Libraries** (Install using `pip`):
+  - OpenCV: `pip install opencv-python`
+  - MediaPipe: `pip install mediapipe`
+  - PyAutoGUI: `pip install pyautogui`
+
+To install all dependencies at once:
+
+```bash
+pip install -r requirements.txt
+
