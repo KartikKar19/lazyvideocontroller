@@ -34,3 +34,11 @@ pip install -r requirements.txt
    git clone https://github.com/KartikKar19/lazyvideocontroller.git
    cd lazyvideocontroller
 
+
+### Fixing Markdown Rendering Issues
+- Ensure you are using `README.md`, not `README.txt` or `README` without an extension.
+- If you are editing directly on GitHub, switch to **Preview Mode** to see how it renders.
+- If formatting still breaks, check for any extra spaces or missing indentation in your `.md` file.
+
+Let me know if it still doesn't appear as expected! 🚀
+
